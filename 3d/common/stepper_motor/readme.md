@@ -2,7 +2,7 @@
 
 Der Motorwinkel muss so auf die Motorhalterung geklebt werden, dass die Kabel des Schrittmotors bequem zur Platine geführt werden können.
 
-Die Mitnehmerplatten 01 und 02 werden miteinander verklebt. Zuvor werden in den acht würfelförmigen Vertiefung Neodym-Magnete der Kantenlänge 5mm verklebt. Dabei das Magnetfeld aller Magnete in die gleiche Richtung zeigen.
+Die Mitnehmerplatten 01 und 02 werden miteinander verklebt. Zuvor werden in den acht würfelförmigen Vertiefungen Neodym-Magnete der Kantenlänge 5mm verklebt. Dabei muss das Magnetfeld aller Magnete in die gleiche Richtung zeigen.
 
 Als Schrittmotor wird "Pololu Stepper Motor NEMA 14 Bipolar 200 Steps/Rev 35x26mm 7.4V 0.28A/Phase" eingesetzt. <https://eckstein-shop.de/Pololu-Stepper-Motor-NEMA-14-Bipolar-200-Steps-Rev-35x26mm-74V-028A-Phase>
 
